@@ -1,0 +1,3 @@
+geoip==1.3.2
+python_geoip_python3==1.3
+termcolor==1.1.0
